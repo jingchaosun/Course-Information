@@ -34,6 +34,12 @@ C++ for Everyone, Edition: 2, Cay Horstmann. ISBN:9780470927137. It is also on [
 
 **CSLO4** - Write modular C++ code using classes in an OOP approach for a given algorithm.
 
+### Final Exam
+
+The final exam will be held in the usual class room, SCI-226, from 10:15AM to 12:15PM on Wednesday, December 18, 2019. Bring the usual materials for the final, like for the mid-term, a writing utensil (No. 2 Pencil), 8.5" X 11" sheet of paper with your notes (you can put notes on both sides), and that's it. There will be no need for a calculator. As a matter of fact, if you think you need a calculator, you're probably doing something wrong.
+
+Remember, the preceding Monday, December 16, 2019, there is no class or lecture.
+
 ### Grading:
 
 Grades for the current semester are available on Canvas. At the end of the semester, the total number of points awarded is added up and grades are given on the basis of the percentage of that total. The grade basis is:
