@@ -1,12 +1,12 @@
-# Syllabus - Srping 2019 CS V30 Beginning C++
+# Syllabus - Fall 2019 CS V30 Beginning C++
 
-[Wiki](https://github.com/vc-csv30-spring2019/Course-Information/wiki)
+[Wiki](https://github.com/vc-csv30/Course-Information/wiki)
 
 ### Instructor:
 
 [Allan Knight](https://www.linkedin.com/in/allanknight)  
 Email: [aknight@vcccd.edu](mailto:aknight@vcccd.edu)  
-Phone: (805) 289-6481 (maybe)  
+Phone: (805) 289-6489
 Office: #SCI-356  
 Office Hours: TR 10:00 AM - 11:50AM
 
@@ -14,17 +14,25 @@ Office Hours: TR 10:00 AM - 11:50AM
 
 This course introduces the student to the concepts of object-oriented programming. The course reviews control structures and data types with emphasis on structured data types and array processing. It introduces the object-oriented programming paradigm, focusing on the definition and use of classes along with the fundamentals of object-oriented design. Other topics include an overview of programming language principles, analysis of algorithms, and an introduction to software engineering issues. A complete object-oriented development framework is presented that encourages extensibility, reusability, and manages complexity.
 
+[Canvas Site](https://vcccd.instructure.com/courses/19380)
+
 ### Lecture:
 
-TR 3:00 PM - 4:50 PM (SCI-226)
+MW 10:00 AM - 11:50 AM (SCI-226)
 
 ### Textbook: 
 
-How to Think Like a Computer Scientist: C++ Version, 	Allen Downey. Available from Grean Tea Press, [here](http://greenteapress.com/thinkcpp/thinkCScpp.pdf). The textbook is required.
+C++ for Everyone, Edition: 2, Cay Horstmann. ISBN:9780470927137. It is also on [Amazon](https://www.amazon.com/Everyone-2nd-Cay-S-Horstmann-ebook/dp/B005FHJL3U/) . The textbook is required.
 
 ### Student Learning Outcomes:
 
-Coming Soon!
+**CSLO1** - Analyze problems and design algorithms in pseudo-code.
+
+**CSLO2** - Read, describe, and trace the execution of programs written in the C++ language.
+
+**CSLO3** - Use given classes and virtual functions in a class hierarchy to create new derived classes and overriden functions that use them.
+
+**CSLO4** - Write modular C++ code using classes in an OOP approach for a given algorithm.
 
 ### Grading:
 
