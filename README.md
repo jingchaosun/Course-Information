@@ -11,6 +11,7 @@ Email: [aknight@vcccd.edu](mailto:aknight@vcccd.edu)
 Phone: (805) 289-6489 
 
 Office: #SCI-356
+
 Office Hours: TR 10:00 AM - 11:50AM 
 
 ### Description:  
