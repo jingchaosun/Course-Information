@@ -61,10 +61,8 @@ something wrong.
 ### Grading:
 
 Grades for the current semester are available on Canvas. At the end of the semester, the total number of points awarded is added up and 
-grades are given on the basis of the percentage of that total. grades are given on the basis of the percentage of that total. The grade 
-basis is:
-
-#### Grade
+grades are given on the basis of the percentage of that total. Remember that Canvas may inflate your grade if you do not select 'Treat all ungraded assignments as 0'. The grade basis is:
+de
 Minimum Percentage
 
 | Grade|     | Percent |
